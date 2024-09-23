@@ -2,7 +2,6 @@
 Quickly summarizes the contents of youtube videos in a public playlist 
 
 
-
 Create a .env file: In the root of your project directory, create a new file named .env.
 
 Add the configurations: Copy and paste the following content into the .env file, and replace {OPENAI_API_KEY} with your actual OpenAI API key.
@@ -19,3 +18,7 @@ SECRET_KEY=your-secret-key
 
 
 Save the file: Ensure that the file is saved in the root directory of your project.
+
+
+![image](https://github.com/user-attachments/assets/a9654ecf-18c5-4903-b8c9-787ec676bcf3)
+
